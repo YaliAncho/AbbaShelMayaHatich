@@ -1,2 +1,2 @@
 do sycarunner
-	go python go!
+	go python go
